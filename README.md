@@ -1,2 +1,2 @@
 # ZheZi Discord BOT
-This is my First Project on GitHub i am making a Discord Bot for my and my friends discord Server 
+This is my first GitHub project, where I developed ZheZI, a Discord bot created to enhance my server with useful features and automation.
